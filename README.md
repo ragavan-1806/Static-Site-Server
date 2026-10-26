@@ -13,3 +13,4 @@ A basic static site configuration hosted serverless using Amazon S3. This projec
    ```bash
    ./deploy.sh
    ```
+Project URL : https://roadmap.sh/projects/static-site-server
